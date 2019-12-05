@@ -4,6 +4,9 @@
 */
 
 /* *********************Pin Outs*********************
+    This project is using an arduino Uno and the pins refered to below and throughout the projectct corrispond to the pins on the uno. 
+    
+    
     SDS011 Tester - TX Pin 6
     SDS011 Tester - RX Pin 10  ***Please Be advised on the amazon Sensor TX and RX are labled wrong and reversed.
                                   If the sensor is reporting an error try swapping the TX And RX Pins the sensor will work with any of the pwm pins
